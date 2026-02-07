@@ -496,10 +496,10 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "C:/Users/ziade/Desktop/uMyo_v3_1.cad",
       "idf": "",
       "netlist": "uECG_v4_3.net",
-      "plot": "",
+      "plot": "C:/Users/ziade/Desktop/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "uMyo_v3.step",
